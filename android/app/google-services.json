@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234163742578",
+    "project_id": "sino-mynotes",
+    "storage_bucket": "sino-mynotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234163742578:android:7fd8ab30c1390859ffdfeb",
+        "android_client_info": {
+          "package_name": "io.tcode.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRD8OmV95EKUxA1RbUSZbd3B4WYdOAU8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
